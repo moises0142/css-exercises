@@ -1,0 +1,17 @@
+.class {
+    font-family: verdana, DejaVu sans, sans-serif;
+    background-color: rgb(240, 164, 164);
+}
+#numero1{
+    color:rgb(0, 0, 250);
+    font-size: 36px;
+
+}
+.class.cooler{
+    font-size: 24px;
+}
+#numero2{
+    background-color: rgb(0,200,29);
+    font-size: 24px;
+    font-weight: 600;
+}
