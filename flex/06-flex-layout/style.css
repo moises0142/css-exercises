@@ -40,17 +40,18 @@ button{
   display:flex;
   justify-content: space-between;
 }
-li{
-  display:inline;
-  padding:10px;
-}
+
+
 a{
   text-decoration:none;
   color:black;
 }
 ul{
-  padding:0px;
-  list-style-type:none;
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 16px
 }
 .footer{
   background-color:grey;
