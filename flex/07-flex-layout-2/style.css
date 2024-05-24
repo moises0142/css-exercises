@@ -6,6 +6,7 @@ body {
 }
 
 .header {
+  padding-left: 5px;
   height: 72px;
   background: darkmagenta;
   color: white;
